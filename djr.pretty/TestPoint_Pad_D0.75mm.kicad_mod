@@ -17,6 +17,6 @@
     (tstamp ecb9d95d-c3e5-4a80-b7be-d742b8cad331)
   )
   (fp_circle (center 0 0) (end 0 0.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 232e49b3-175c-43f1-906b-a67d81adeac2))
-  (fp_circle (center 0 0) (end 0.5 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp f02f025d-d308-4e0d-bc6c-e230724bf915))
+  (fp_circle (center 0 0) (end 0.55 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp f02f025d-d308-4e0d-bc6c-e230724bf915))
   (pad "1" smd circle (at 0 0) (size 0.75 0.75) (layers "F.Cu" "F.Mask") (tstamp bab732e9-e79a-410d-8a2b-e7d9e8d299bb))
 )
